@@ -1,0 +1,10 @@
+healthy_leaf
+mosaic_virus
+yellow_leaf_curl virus
+target_spot
+healthy
+late_blight_disease 
+early_blight_virus 
+healthy_unwater_disease_plant
+bacterial_spot_virus
+spider_mites_disease

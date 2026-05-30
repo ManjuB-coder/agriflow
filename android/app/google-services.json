@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618267692066",
+    "project_id": "agriflow-ai-27485",
+    "storage_bucket": "agriflow-ai-27485.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618267692066:android:196721ee792da767ed8e7b",
+        "android_client_info": {
+          "package_name": "com.example.agriflow_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RTJ3XxnFEVg1g03Wax0RbhluULylwSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
