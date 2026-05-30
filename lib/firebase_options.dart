@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA33balHc9sglwEYDvJXRKcGum1IqIEoYw',
-    appId: '1:618267692066:web:d172a55b4da0bf2aed8e7b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618267692066',
     projectId: 'agriflow-ai-27485',
     authDomain: 'agriflow-ai-27485.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-RTJ3XxnFEVg1g03Wax0RbhluULylwSY',
-    appId: '1:618267692066:android:196721ee792da767ed8e7b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618267692066',
     projectId: 'agriflow-ai-27485',
     storageBucket: 'agriflow-ai-27485.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA9wr7a69ZtngLHiCTCUC3fQSpjoJAgPNg',
-    appId: '1:618267692066:ios:a69e552f80b55c2ded8e7b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618267692066',
     projectId: 'agriflow-ai-27485',
     storageBucket: 'agriflow-ai-27485.firebasestorage.app',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA9wr7a69ZtngLHiCTCUC3fQSpjoJAgPNg',
-    appId: '1:618267692066:ios:a69e552f80b55c2ded8e7b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618267692066',
     projectId: 'agriflow-ai-27485',
     storageBucket: 'agriflow-ai-27485.firebasestorage.app',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA33balHc9sglwEYDvJXRKcGum1IqIEoYw',
-    appId: '1:618267692066:web:20093b7c13afe349ed8e7b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618267692066',
     projectId: 'agriflow-ai-27485',
     authDomain: 'agriflow-ai-27485.firebaseapp.com',
